@@ -6,4 +6,4 @@ Basic commends:
 - Git status
 - Git push
 - Git pull
-
+- Git Merge 
