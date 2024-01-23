@@ -7,3 +7,4 @@ Basic commends:
 - Git push
 - Git pull
 - Git Merge 
+- Git Final
